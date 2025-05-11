@@ -11,7 +11,7 @@ I have added mock data in places like address, management persons, and images, e
 
 ## 🚀 Live Demo
 
-🔗 [Click here to visit the deployed site](example.com)
+🔗 [Click here to visit the deployed site](https://aurxonassignment.vercel.app/)
 
 ---
 
@@ -52,7 +52,7 @@ I have added mock data in places like address, management persons, and images, e
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/auxron-assignment.git
+git clone https://github.com/shambhavits16/aurxon_assignment.git
 
 # Navigate to project directory
 cd auxron-assignment
